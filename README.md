@@ -36,9 +36,9 @@ En esta sección guardo referencias sobre los pilares que sostienen el 68% de la
 
 Documentación y snippets sobre las herramientas de Google para la coexistencia híbrida.
 
-### Herramientas de "Élite"
+### Herramientas
 * **Google Cloud Mainframe Connector (G4):** Ingesta nativa de datos vía JCL hacia BigQuery.
-* **Dual Run:** La red de seguridad para procesamiento en paralelo y validación de integridad.
+* **Dual Run:** Procesamiento en paralelo y validación de integridad.
 * **Mainframe Online Transcoder:** Conversión de Copybooks de COBOL a esquemas de Avro/BigQuery.
 
 ---
