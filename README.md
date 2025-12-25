@@ -9,7 +9,7 @@ En este repositorio guardo documentación de Mainframes y como extender sus func
 ## 👨‍💻 Perfil del Autor
 * **Background:** Veterano de la infraestructura (IBM UK, Sun Microsystems UK, Research In Motion UK, Telefónica...).
 * **Rol Actual:** Responsable de Preventa Google Cloud en Altostratus | Telefónica Tech.
-* **Objetivo:** Aprendizaje sobre Mainframes (COBOL/JCL) y cómo integrarlos con la potencia analítica de BigQuery y la elasticidad de GKE.
+* **Objetivo:** Aprendizaje sobre Mainframes (COBOL/JCL) y cómo integrarlos para aprovechar la elasticidad de Google Cloud.
 
 ---
 
