@@ -2,7 +2,7 @@
 
 > **"The Network is the Computer"** - *Sun Microsystems* > **"Reliability, Availability, Serviceability"** - *IBM Mainframe Core*
 
-En este repositorio guardo documentación de sistemas tradicionales (IBM z/OS, AS/400) hacia arquitecturas modernas y escalables en **Google Cloud Platform (GCP)**.
+En este repositorio guardo documentación de sistemas tradicionales (IBM z/OS, AS/400) y como extender sus funcionalidades con tecnología moderna y escalable en **Google Cloud Platform (GCP)**.
 
 ---
 
