@@ -1,4 +1,4 @@
-# 🧮 Mainframe Modernization Journey: From Legacy to Google Cloud
+# 🧮 Mainframe Modernization to Google Cloud
 
 > **"The Network is the Computer"** - *Sun Microsystems* > **"Reliability, Availability, Serviceability"** - *IBM Mainframe Core*
 
@@ -65,4 +65,3 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 
 ---
 
-> **Nota de Visión:** "No estamos aquí para apagar el pasado, sino para liberar los datos que el pasado ha custodiado durante décadas."
