@@ -13,7 +13,7 @@ En este repositorio guardo documentación de Mainframes y como extender sus func
 
 ---
 
-## 🦖 El Mundo Mainframe (Cimientos)
+## 🦖 El Mundo Mainframe (Cimientos 'RAS')
 
 En esta sección guardo referencias sobre los pilares que sostienen el 70% de las cargas transaccionales mundiales.
 
