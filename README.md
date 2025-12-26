@@ -50,7 +50,8 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 * [ ] **O'Reilly:** *Mainframe Modernization* (Bradley Skelton).
 * [ ] **Google Cloud:** *Mainframe to Google Cloud Migration Guide*.
 
-### Snippets Destacados
+### Directorios Destacados
+* `/books/`: Libros, Material de Referencia.
 * `/jcl/`: Ejemplos de ejecución del Mainframe Connector.
 * `/cobol/`: Estructuras de Copybooks para mapeo de datos.
 * `/terraform/`: Infraestructura base para entornos de migración en GCP.
