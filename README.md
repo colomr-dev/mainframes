@@ -46,9 +46,14 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 ## 📚 Biblioteca de Referencia
 
 ### Libros de Cabecera
-* [ ] **IBM Redbook:** *Introduction to the New Mainframe: z/OS Basics*.
-* [ ] **O'Reilly:** *Mainframe Modernization* (Bradley Skelton).
-* [ ] **Google Cloud:** *Mainframe to Google Cloud Migration Guide*.
+* **IBM Redbook:** *Introduction to the New Mainframe: z/OS Basics*.
+* **O'Reilly:** *Mainframe Modernization* (Bradley Skelton).
+* **Google Cloud:** *Mainframe to Google Cloud Migration Guide*.
+
+### Cursos (gratuitos)
+* [**Mainframe physical environment**] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9environment/index.htm)
+* [**Mainframe internal structure**] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9internals/index.htm)
+* [**Mainframe processors**] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9processors/index.htm)
 
 ### Directorios Destacados
 * `/books/`: Libros, Material de Referencia.
