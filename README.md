@@ -51,7 +51,7 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 * **Google Cloud:** *Mainframe to Google Cloud Migration Guide*.
 
 ### Cursos (gratuitos)
-[Mainframe physical environment] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9environment/index.htm)
+- (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9environment/index.htm "Mainframe physical environment")
 [Mainframe internal structure] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9internals/index.htm)
 [Mainframe processors] (http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9processors/index.htm)
 
