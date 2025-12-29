@@ -57,27 +57,31 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 * `/terraform/`: Infraestructura base para entornos de migración en GCP.
 
 ### Cursos (gratuitos)
-Mainframe Hardware Basics:
+#### Mainframe Hardware Basics
 - [Mainframe physical environment](http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9environment/index.htm)
 - [Mainframe internal structure](http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9internals/index.htm)
 - [Mainframe processors](http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9processors/index.htm)
-Basics of ISPF and data sets:
+
+#### Basics of ISPF and data sets
 - [Main features of ISPF](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfmain/index.htm)
 - [The ISPF PDF Primary Options Menu](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfpdf/index.htm)
 - [ISPF data set basics](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfdsbasics/index.htm)
 - [Working with data sets](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfworkds/index.htm)
-Editing with ISPF:
+
+#### Editing with ISPF
 - [http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfeditor/index.htm](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfeditor/index.htm)
 - [Using ISPF editing commands](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfcommands/index.htm)
 - [Setting ISPF editing modes](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfmodes/index.htm)
 - [Searching data sets with the ISPF editor](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfsearch/index.htm)
-Using ISPF utilities:
+
+#### Using ISPF utilities
 - [Using the ISPF library utility](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispflibu/index.htm)
 - [Using the ISPF data set utility](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfdsu/index.htm)
 - [Using the ISPF move/copy utility](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfmcu/index.htm)
 - [Using the ISPF dslist utility](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfdslu/index.htm)
 - [Using the ISPF compare and search utilities](http://publibz.boulder.ibm.com/zoslib/books/tutorials/ispfcsu/index.htm)
-Job control language (JCL) basics course
+
+#### Job control language (JCL) basics course
 - [Job control language (JCL) basics course](http://publibz.boulder.ibm.com/zoslib/books/tutorials/introjcl/index.htm))
 
 ---
