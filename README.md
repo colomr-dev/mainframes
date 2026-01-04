@@ -56,6 +56,10 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 * `/cobol/`: Estructuras de Copybooks para mapeo de datos.
 * `/terraform/`: Infraestructura base para entornos de migración en GCP.
 
+### IBM Z Day 2025
+To access the platform at any time
+https://ibmzday2025-vconf.bemyapp.com/#/event
+
 ### Cursos (gratuitos)
 #### Mainframe Hardware Basics
 - [Mainframe physical environment](http://publibz.boulder.ibm.com/zoslib/books/tutorials/z9environment/index.htm)
