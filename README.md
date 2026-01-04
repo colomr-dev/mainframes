@@ -57,8 +57,7 @@ Documentación y snippets sobre las herramientas de Google para la coexistencia 
 * `/terraform/`: Infraestructura base para entornos de migración en GCP.
 
 ### IBM Z Day 2025
-Acceso a la plataforma del evento 
-https://ibmzday2025-vconf.bemyapp.com/#/event
+[Acceso a la plataforma del evento](https://ibmzday2025-vconf.bemyapp.com/) 
 
 ### Cursos (gratuitos)
 #### Mainframe Hardware Basics
